@@ -1,0 +1,13 @@
+CPU fetches and executes each 
+instruction of the program 
+• Successively goes through 
+fetch, execute and interrupt 
+cycles 
+It fetches internal instructions of the programs from the 
+main memory to the processor instruction register, and 
+based on this register contents, the control unit 
+generates a control signal that supervises the execution 
+of these instructions.
+• A control unit works by receiving input information to 
+which it converts into control signals, which are then 
+sent to the central processor. 

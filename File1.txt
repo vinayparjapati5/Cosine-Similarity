@@ -1,0 +1,14 @@
+It is the responsibility of the Control Unit to tell the 
+computer’s memory, arithmetic/logic unit and input and 
+output devices how to respond to the instructions that 
+have been sent to the processor. 
+It fetches internal instructions of the programs from the 
+main memory to the processor instruction register, and 
+based on this register contents, the control unit 
+generates a control signal that supervises the execution 
+of these instructions.
+A control unit works by receiving input information to 
+which it converts into control signals, which are then 
+sent to the central processor. 
+The computer’s processor then tells the attached 
+hardware what operations to perform. 

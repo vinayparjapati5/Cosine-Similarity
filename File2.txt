@@ -1,0 +1,10 @@
+CPU fetches and executes each 
+instruction of the program 
+• Successively goes through 
+fetch, execute and interrupt 
+cycles 
+• Two flip-flops marked F and E 
+identify each of these 3 cycles 
+• Two general operations 
+• Instruction control transfer 
+• Program control transfer
